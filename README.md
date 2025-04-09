@@ -397,19 +397,19 @@ main()
 ```
 ## Results:
 ### 1. Create Policy:
-<img src="./outputs/o1.png" width="400" />
-<img src="./outputs/o2.png" width="400" />
+<img src="./outputs/o1.png" width="600" />
+<img src="./outputs/o2.png" width="500" />
 
 ### 2. View Policy:
-<img src="./outputs/o3.png" width="400" />
+<img src="./outputs/o3.png" width="600" />
 
 ### 3. View All Policies:
-<img src="./outputs/o4.png" width="400" />
+<img src="./outputs/o4.png" width="600" />
 
 ### 4. Update Policy:
-<img src="./outputs/o5.png" width="400" />
-<img src="./outputs/o7.png" width="400" />
+<img src="./outputs/o5.png" width="600" />
+<img src="./outputs/o7.png" width="500" />
 
 ### 5. Delete Policy:
-<img src="./outputs/o6.png" width="400" />
+<img src="./outputs/o6.png" width="600" />
 
