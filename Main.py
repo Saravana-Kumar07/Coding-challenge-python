@@ -4,7 +4,7 @@ from exception.exceptions import PolicyNotFoundException, InvalidInputException
 
 
 def display_menu():
-    print("\n===== Insurance Management System =====")
+    print("\nInsurance Management System")
     print("1. Create Policy")
     print("2. View Policy")
     print("3. View All Policies")
@@ -49,7 +49,7 @@ def main():
         elif choice == '3':
             try:
                 policies = service.getAllPolicies()
-                print("\n===== All Policies =====")
+                print("\nAll Policies:")
                 for policy in policies:
                     print(f"ID: {policy[0]}, Name: {policy[1]}, Premium: {policy[2]}, Coverage: {policy[3]}, Term: {policy[4]} years")
             except Exception as e:
