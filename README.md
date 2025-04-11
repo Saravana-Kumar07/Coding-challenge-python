@@ -24,7 +24,7 @@ College: Saveetha Engineering college
 - Policies Table:
     - policyId: A unique number for each policy (used as the primary key).
 
-    - policyName: The name of the policy, like "Health Shield Basic" (text).
+    - policyName: The name of the policy(text).
 
     - premiumAmount: The cost of the policy that needs to be paid periodically (number).
 
