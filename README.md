@@ -11,16 +11,16 @@ College: Saveetha Engineering college
 
     - password: The user's password for authentication (text).
 
-    - role: The role of the user, like "Admin" or "Agent" (text).
+    - role: The role of the user(text).
 
 - Clients Table:
     - clientId: A unique number for each client (used as the primary key).
 
     - clientName: The name of the client (text).
 
-    - contactInfo: The contact details of the client, like phone number or email (text).
+    - contactInfo: The contact details of the client(text).
 
-    - policyId: The ID of the policy associated with the client. Links to the policyId in the Policies Table.
+    - policyId: The ID of the policy associated with the client.
 - Policies Table:
     - policyId: A unique number for each policy (used as the primary key).
 
