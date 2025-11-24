@@ -1,7 +1,6 @@
 # <p align='center'> Insurance Management System - Coding Challenge </p>
-### Name: Saravana Kumar S
-<br>
-College: Saveetha Engineering college
+### Name: Saravana Kumar S <br>
+College: Saveetha Engineering College
 
 ## SQL schema design:
 - Users Table:
