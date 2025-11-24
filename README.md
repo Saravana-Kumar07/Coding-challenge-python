@@ -1,6 +1,6 @@
 # <p align='center'> Insurance Management System - Coding Challenge </p>
 ### Name: Saravana Kumar S
-Superset ID: 5371342<br>
+<br>
 College: Saveetha Engineering college
 
 ## SQL schema design:
